@@ -2,17 +2,17 @@
 # 标题
 title: Blog
 # 选项卡标题
-SEOTitle: 周大路的博客 | SuperZhouDalu‘s Blog
+SEOTitle: 马盼莉的博客 | Lilian's Blog
 # 首页背景图片
 header-img: img/post-bg-debug.png
 # 邮箱设置
-email: zhoujianlu666@gmail.com
+email: 347646773@qq.com
 # 网站介绍
 description: "I guess it comes down to a simple choice:get busy living or get busy dying."
 # 关键词
-keyword: "Java, Kotlin, Android, Vue.js, Apple, iPhone"
+keyword: "JavaScript, uni-app, Vue.js"
 # 博客访问链接
-url: "https://super.github.io"
+url: "https://Lilian97.github.io"
 # '/blog' if your blog hosted on 'host/blog'
 baseurl: ""
 
@@ -20,7 +20,7 @@ baseurl: ""
 # 是否开启侧边栏 true 开始 false 关闭
 sidebar: true
 # 侧边栏描述语句
-sidebar-about-description: "知识就是力量。"
+sidebar-about-description: "Nothing stays the same for long,so keep studying!"
 # 侧边栏头像
 sidebar-avatar: /img/sidebar-avatar.jpg
 
@@ -29,13 +29,13 @@ RSS: false
 # 微博 打开个人主页截取用户编号 例如个人主页网址为https://weibo.com/u/5089298519 填写 5089298519
 weibo_username:     5089298519
 # 知乎个人页面 填写用户名
-zhihu_username:     Zhoudalu
+#zhihu_username:     Zhoudalu
 # GitHub个人页面 填写用户名
-github_username:    superZhouDaLu
+github_username:    Lilian97
 # facebook个人页面 填写用户名
 #facebook_username:  100024292873470
 # 简书个人页面截取用户编号 与微博同理
-jianshu_username:   56a2c6b6027c
+jianshu_username:   994c5193fb43
 # twitter个人页面 填写用户名
 #twitter_username:   zhoudalu
 
@@ -85,7 +85,7 @@ gitalk:
 # Google Analytics
 ga_track_id: 'UA-135281137-1'
 # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-ga_domain: https://aigq.me
+ga_domain: auto
 
 ## 标签设置
 # 是否使用首页标签
@@ -100,16 +100,16 @@ service-worker: true
 ## 友情链接
 friends: [
     {
-        title: "帅超",
-        href: "https://github.com/shuaichaoA"
+        title: "winter",
+        href: "https://github.com/wintercn"
     },{
-        title: "鸡大婶",
-        href: "https://github.com/ruinszero"
+        title: "冴羽",
+        href: "https://github.com/mqyqingfeng"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "司徒正美",
+        href: "https://github.com/RubyLouvre"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "尤雨溪",
+        href: "https://github.com/yyx990803"
     }
 ]
